@@ -1,4 +1,4 @@
 # Taller
-con miguel sierra y jesus bermudez
+Esteban Cortés
 Jesus Bermudez 
 Miguel ángel Sierra Guayacán.
